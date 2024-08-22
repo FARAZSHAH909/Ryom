@@ -142,6 +142,7 @@ font-size: 16px;
 
 .product{
     cursor: pointer;
+    padding-bottom: 20px;
     
 }
 .product img {
